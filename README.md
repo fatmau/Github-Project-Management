@@ -5,6 +5,9 @@ a set of notebooks to gather data from Github &amp; Zenhub and plotting cycle ti
 ## zenhub_github_data_import
 this notebook gets all issues and their cycle times, event dates from Github & Zenhub. As an outcome, it creates a csv file contaning most details of any story in your github directory.
 
+Github API documentation : https://developer.github.com/v3/
+Zenhub API documentation : https://github.com/ZenHubIO/API 
+
 WARNING: Do not forget to edit your project parameters in the first cell
 
 
